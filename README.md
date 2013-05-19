@@ -1,0 +1,4 @@
+MachineManager
+==============
+
+manager the hosts
